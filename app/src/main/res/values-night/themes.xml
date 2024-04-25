@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Menu" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <color name="colorPrimaryDark" tools:ignore="MissingDefaultResource" />
+    <color name="colorAccent" tools:ignore="MissingDefaultResource" />
+    <color name="colorPrimary" tools:ignore="MissingDefaultResource" />
+</resources>
